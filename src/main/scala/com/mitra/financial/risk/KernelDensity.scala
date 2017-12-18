@@ -1,8 +1,3 @@
-/*
- * Copyright 2015 and onwards Sanford Ryza, Uri Laserson, Sean Owen and Joshua Wills
- *
- * See LICENSE file for further information.
- */
 
 package com.mitra.financial.risk
 
